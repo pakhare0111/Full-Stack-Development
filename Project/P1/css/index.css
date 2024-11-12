@@ -1,0 +1,13 @@
+li{
+    display: inline;
+    float: right;
+    padding: 20px;
+}
+
+#mainLogo{
+    float: left;
+}
+
+a{
+    display: block;
+}
